@@ -28,6 +28,10 @@ public class day2GitGithub {
       Not: Github ogrendim
       6) git pull ---> Remote(yani uzak repo) dosyalarimizi guncellemek icin kullanilir
       
+<<<<<<< HEAD
+=======
+>>>>>>> 5108b3d0a9ddc3021daf0f18b6ad47a1585e5846
+>>>>>>> 7e3e56cb5e9a0858d0712fda30bb5792bffc8511
 
      */
 }
