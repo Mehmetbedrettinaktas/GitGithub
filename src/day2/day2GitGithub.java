@@ -3,7 +3,7 @@ package day2;
 public class day2GitGithub {
 
     /*
-    1) git iniz --> Local repo olusturmak icin yani .git ile klasorumuzun
+    1) git init  --> Local repo olusturmak icin yani .git ile klasorumuzun
     icindeki dosyalari iliskilendirmek icin kullanilir
     2) git add .  --> Wrking space'den (yani yerel) dosyalarimi staging area'ya
     (yani commitlemek icin beklenen yer) gonderilir
