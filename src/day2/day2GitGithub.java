@@ -16,6 +16,6 @@ public class day2GitGithub {
                git pus -u origin master (bizim brancimizin adi)
       Not: Yukardaki  iki komutu tek seferde kullandiktan sonra ikinci commit'lerim icin sadece
       git push kullaniriz
-      not
+      not yeni brach ekledim
      */
 }
