@@ -35,6 +35,8 @@ public class day2GitGithub {
 
      */
     public static void main(String[] args) {
-        System.out.println("Brach deneme 1");
+        System.out.println("Brach  1. deneme ");
+        System.out.println("Master 1. deneme ");
+
     }
 }
