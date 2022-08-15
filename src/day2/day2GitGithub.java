@@ -34,4 +34,7 @@ public class day2GitGithub {
 >>>>>>> 7e3e56cb5e9a0858d0712fda30bb5792bffc8511
 
      */
+    public static void main(String[] args) {
+        System.out.println("Brach deneme 1");
+    }
 }
