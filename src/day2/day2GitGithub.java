@@ -18,5 +18,11 @@ public class day2GitGithub {
       git push kullaniriz
 
       NOT: git log --oneline ---> Commitlerimdeki yani versiyonlarimdaki durumu gosterir
+
+     not: git add . yapmadan  git commit -a -m"V5" --> seklinde yazabiliriz.
+      ama bir defa  git add . yapmis olmamiz lazim
+
+      surekli calis
+
      */
 }
