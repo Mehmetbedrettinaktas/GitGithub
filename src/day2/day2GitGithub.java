@@ -18,5 +18,7 @@ public class day2GitGithub {
       git push kullaniriz
 
       NOT: git log --oneline ---> Commitlerimdeki yani versiyonlarimdaki durumu gosterir
+      Not: Github ogrendim
+      
      */
 }
