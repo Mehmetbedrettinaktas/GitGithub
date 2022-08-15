@@ -29,5 +29,6 @@ public class day2GitGithub {
       Not: Github ogrendim
       
 >>>>>>> 5108b3d0a9ddc3021daf0f18b6ad47a1585e5846
+
      */
 }
