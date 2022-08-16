@@ -32,7 +32,7 @@ public class day2GitGithub {
 
       Not: git log --oneline --> Commitlerimdeki yani versionlarimdaki hash kodlarimin durumunu goruyorum
 
-
+       Bu is olacak insallah
 
      */
     public static void main(String[] args) {
