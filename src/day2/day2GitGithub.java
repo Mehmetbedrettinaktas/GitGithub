@@ -35,6 +35,7 @@ public class day2GitGithub {
       Not: git log --oneline --> Commitlerimdeki yani versionlarimdaki hash kodlarimin durumunu goruyorum
 
 
+
      */
     public static void main(String[] args) {
         System.out.println("Brach  1. deneme ");
