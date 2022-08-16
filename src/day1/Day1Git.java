@@ -7,5 +7,6 @@ public class Day1Git {
         System.out.println( "Hallo Git 3. Deneme");
         System.out.println( "Hallo Git 4. Deneme");
         System.out.println( "Hallo Git 5. Deneme");
+        System.out.println( "Gitignore son");
     }
 }
