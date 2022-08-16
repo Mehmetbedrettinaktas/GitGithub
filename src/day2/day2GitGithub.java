@@ -22,7 +22,7 @@ public class day2GitGithub {
       git push kullaniriz
 
 
-<<<<<<< HEAD
+
 
      not: git add . yapmadan  git commit -a -m"V5" --> seklinde yazabiliriz.
       ancak bir defa  git add . yapmis olmamiz lazim
@@ -30,14 +30,26 @@ public class day2GitGithub {
       Not: Github ogrendim
       6) git pull ---> Remote(yani uzak repo) dosyalarimizi guncellemek icin kullanilir
 
+
       Not: git log --oneline --> Commitlerimdeki yani versionlarimdaki hash kodlarimin durumunu goruyorum
 
        Bu is olacak insallah
+
+      
+
+
+
+
+
+        branch mehmet son durum
+
 
      */
     public static void main(String[] args) {
         System.out.println("Brach  1. deneme ");
         System.out.println("Master 1. deneme ");
+        System.out.println("Master 2. deneme ");
+        System.out.println("Master 3. deneme ");
 
     }
 }
