@@ -17,7 +17,7 @@ public class day2GitGithub {
       Not: Yukardaki  iki komutu tek seferde kullandiktan sonra ikinci commit'lerim icin sadece
       git push kullaniriz
 
-      NOT: git log --oneline ---> Commitlerimdeki yani versiyonlarimdaki durumu gosterir
+
 <<<<<<< HEAD
 
      not: git add . yapmadan  git commit -a -m"V5" --> seklinde yazabiliriz.
