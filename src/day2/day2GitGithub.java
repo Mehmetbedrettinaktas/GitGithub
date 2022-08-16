@@ -25,9 +25,7 @@ public class day2GitGithub {
 <<<<<<< HEAD
 
      not: git add . yapmadan  git commit -a -m"V5" --> seklinde yazabiliriz.
-      ama bir defa  git add . yapmis olmamiz lazim
-
-      surekli calis
+      ancak bir defa  git add . yapmis olmamiz lazim
 
       Not: Github ogrendim
       6) git pull ---> Remote(yani uzak repo) dosyalarimizi guncellemek icin kullanilir
