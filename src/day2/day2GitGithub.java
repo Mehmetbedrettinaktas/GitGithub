@@ -34,13 +34,6 @@ public class day2GitGithub {
       Not: git log --oneline --> Commitlerimdeki yani versionlarimdaki hash kodlarimin durumunu goruyorum
 
        Bu is olacak insallah
-
-      
-
-
-
-
-
         branch mehmet son durum
 
 
