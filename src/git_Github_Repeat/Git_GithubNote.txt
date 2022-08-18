@@ -2,7 +2,6 @@
     GIT teki kisim:
 1) git --version --> biligisayarimizdaki git uygulamanin olup olmadigini
  ve kacinci version yuklu oldugunu ogreniyoruz
-
  2) localimizdeki version kontrol sistemini remuve dakiyle iliskilendirmek
   icin asagdaki komutlari kullaniyoruz:
     - git config --global user.name "Isim Soyisim"     kullanicinin github'taki kullanici adi
@@ -59,6 +58,26 @@
 
     14) git clone  + github daki repository adresi === > Githubdaki (remuve) daki bir repoyu lokale indirmek icinkullanilir
 
+    15) .gitignore ====> remote gondermek istemedigimiz klasorleri gizlemek icin
+        -  .idea
+        -  *.iml  ===> .iml olan herseyi gizle diyoruz
+        -  file==> save all deyip cikis yapiyoruz
+
+    16) conflict ===> cod cakismalarina denir. Farkli devoloperlarin ayni satirlarrda kod yazip
+        merge yaptigi sirada ortaya cikan cakismalardir.
+        hatayi duzeltmek icin istedigimiz kod satirini silebiliriz ve her ikisinide kalmasini istiyorsak da olur.
+Conflict' in ornek sekli
+<<<<<<<<<<< HEAD
+        System.out.println("Gitignore Deneme 2")
+============
+        System.out.println("Gitignore Deneme Branch")
+>>>>>>>>>>> mehmet
+
+       - hatayi duzeltikten sonra ;
+       git add .
+       git commit -m"mesaj" yaparak conflict duzelmis oluyor.
+       en son branch leri esitliyoruz.
+
     **************
 
     GitHub taki kisim:
@@ -70,4 +89,21 @@
     3) Owner kisminda Repository name kismina repository mizin isimini girip
     4) En altta Create Repository kismini tikladigimizda yeni repositorymiz olusmus oluyor.
 
+
+--------Komutlar
+git --version
+git config --global user.email "email_adresiniz"
+git config --global user.name "isminiz"
+git config --global -l --> Ayarları listeler
+git init --> git ile ilişkilendirir
+git status --> Working Space ve Staged deki değişiklikleri gösterir
+git add . --> Working'den staging area'ya gönderir
+git status
+git diff --> Working space deki değişikliği gösterir
+git diff --staged --> Staging Area daki değişiklikleri gösterir
+git commit -m "first commit"
+git show "hashcode" --> Versiyondaki değişiklikleri gösterir
+git log --oneline
+git remote add origin https://github.com/techproed2020/Git_...
+git push -u origin master
 
